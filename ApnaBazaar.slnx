@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ApnaBazaar.Api/ApnaBazaar.Api.csproj" />
+  <Project Path="ApnaBazaar.Application/ApnaBazaar.Application.csproj" />
+  <Project Path="ApnaBazaar.Domain/ApnaBazaar.Domain.csproj" />
+  <Project Path="ApnaBazaar.Infrastructure/ApnaBazaar.Infrastructure.csproj" />
+</Solution>
